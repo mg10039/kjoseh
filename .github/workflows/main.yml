@@ -1,4 +1,4 @@
-- name: List Members
+- name: (List Members)
   # You may pin to the exact commit or the version.
   # uses: RITct/members-list-action@37503af1d549ce63d10acdfb5b40c7e6c9512fd1
   uses: RITct/members-list-action@1.0
@@ -11,7 +11,6 @@
            - name: Age calculator
   # You may pin to the exact commit or the version.
   # uses: frdmn/age-calculator-action@211c264ff176aea39f6202b269cb562f78ce453a
-  uses: frdmn/age-calculator-action@v1.1
   with:
     # Date to calculate age
     date: 
